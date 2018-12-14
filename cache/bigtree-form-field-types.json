@@ -1,0 +1,314 @@
+{
+    "settings": {
+        "default": {
+            "text": {
+                "name": "Text",
+                "self_draw": false
+            },
+            "textarea": {
+                "name": "Text Area",
+                "self_draw": false
+            },
+            "html": {
+                "name": "HTML Area",
+                "self_draw": false
+            },
+            "upload": {
+                "name": "Upload",
+                "self_draw": false
+            },
+            "file-reference": {
+                "name": "File Reference",
+                "self_draw": false
+            },
+            "image-reference": {
+                "name": "Image Reference",
+                "self_draw": false
+            },
+            "video-reference": {
+                "name": "Video Reference",
+                "self_draw": false
+            },
+            "list": {
+                "name": "List",
+                "self_draw": false
+            },
+            "checkbox": {
+                "name": "Checkbox",
+                "self_draw": false
+            },
+            "date": {
+                "name": "Date Picker",
+                "self_draw": false
+            },
+            "time": {
+                "name": "Time Picker",
+                "self_draw": false
+            },
+            "datetime": {
+                "name": "Date &amp; Time Picker",
+                "self_draw": false
+            },
+            "photo-gallery": {
+                "name": "Photo Gallery",
+                "self_draw": false
+            },
+            "callouts": {
+                "name": "Callouts",
+                "self_draw": true
+            },
+            "matrix": {
+                "name": "Matrix",
+                "self_draw": true
+            },
+            "one-to-many": {
+                "name": "One to Many",
+                "self_draw": false
+            }
+        },
+        "custom": {
+            "com.fastspot.link-finder-field-type*link-finder": {
+                "name": "Link Finder",
+                "self_draw": null
+            }
+        }
+    },
+    "callouts": {
+        "default": {
+            "text": {
+                "name": "Text",
+                "self_draw": false
+            },
+            "textarea": {
+                "name": "Text Area",
+                "self_draw": false
+            },
+            "html": {
+                "name": "HTML Area",
+                "self_draw": false
+            },
+            "upload": {
+                "name": "Upload",
+                "self_draw": false
+            },
+            "file-reference": {
+                "name": "File Reference",
+                "self_draw": false
+            },
+            "image-reference": {
+                "name": "Image Reference",
+                "self_draw": false
+            },
+            "video-reference": {
+                "name": "Video Reference",
+                "self_draw": false
+            },
+            "list": {
+                "name": "List",
+                "self_draw": false
+            },
+            "checkbox": {
+                "name": "Checkbox",
+                "self_draw": false
+            },
+            "date": {
+                "name": "Date Picker",
+                "self_draw": false
+            },
+            "time": {
+                "name": "Time Picker",
+                "self_draw": false
+            },
+            "datetime": {
+                "name": "Date &amp; Time Picker",
+                "self_draw": false
+            },
+            "photo-gallery": {
+                "name": "Photo Gallery",
+                "self_draw": false
+            },
+            "callouts": {
+                "name": "Callouts",
+                "self_draw": true
+            },
+            "matrix": {
+                "name": "Matrix",
+                "self_draw": true
+            },
+            "one-to-many": {
+                "name": "One to Many",
+                "self_draw": false
+            }
+        },
+        "custom": {
+            "com.fastspot.link-finder-field-type*link-finder": {
+                "name": "Link Finder",
+                "self_draw": null
+            },
+            "hicn_video": {
+                "name": "YT Vimeo Video",
+                "self_draw": null
+            }
+        }
+    },
+    "templates": {
+        "default": {
+            "text": {
+                "name": "Text",
+                "self_draw": false
+            },
+            "textarea": {
+                "name": "Text Area",
+                "self_draw": false
+            },
+            "html": {
+                "name": "HTML Area",
+                "self_draw": false
+            },
+            "upload": {
+                "name": "Upload",
+                "self_draw": false
+            },
+            "file-reference": {
+                "name": "File Reference",
+                "self_draw": false
+            },
+            "image-reference": {
+                "name": "Image Reference",
+                "self_draw": false
+            },
+            "video-reference": {
+                "name": "Video Reference",
+                "self_draw": false
+            },
+            "list": {
+                "name": "List",
+                "self_draw": false
+            },
+            "checkbox": {
+                "name": "Checkbox",
+                "self_draw": false
+            },
+            "date": {
+                "name": "Date Picker",
+                "self_draw": false
+            },
+            "time": {
+                "name": "Time Picker",
+                "self_draw": false
+            },
+            "datetime": {
+                "name": "Date &amp; Time Picker",
+                "self_draw": false
+            },
+            "photo-gallery": {
+                "name": "Photo Gallery",
+                "self_draw": false
+            },
+            "callouts": {
+                "name": "Callouts",
+                "self_draw": true
+            },
+            "matrix": {
+                "name": "Matrix",
+                "self_draw": true
+            },
+            "one-to-many": {
+                "name": "One to Many",
+                "self_draw": false
+            }
+        },
+        "custom": {
+            "com.fastspot.link-finder-field-type*link-finder": {
+                "name": "Link Finder",
+                "self_draw": null
+            },
+            "hicn_video": {
+                "name": "YT Vimeo Video",
+                "self_draw": null
+            }
+        }
+    },
+    "modules": {
+        "default": {
+            "text": {
+                "name": "Text",
+                "self_draw": false
+            },
+            "textarea": {
+                "name": "Text Area",
+                "self_draw": false
+            },
+            "html": {
+                "name": "HTML Area",
+                "self_draw": false
+            },
+            "upload": {
+                "name": "Upload",
+                "self_draw": false
+            },
+            "file-reference": {
+                "name": "File Reference",
+                "self_draw": false
+            },
+            "image-reference": {
+                "name": "Image Reference",
+                "self_draw": false
+            },
+            "video-reference": {
+                "name": "Video Reference",
+                "self_draw": false
+            },
+            "list": {
+                "name": "List",
+                "self_draw": false
+            },
+            "checkbox": {
+                "name": "Checkbox",
+                "self_draw": false
+            },
+            "date": {
+                "name": "Date Picker",
+                "self_draw": false
+            },
+            "time": {
+                "name": "Time Picker",
+                "self_draw": false
+            },
+            "datetime": {
+                "name": "Date &amp; Time Picker",
+                "self_draw": false
+            },
+            "photo-gallery": {
+                "name": "Photo Gallery",
+                "self_draw": false
+            },
+            "callouts": {
+                "name": "Callouts",
+                "self_draw": true
+            },
+            "matrix": {
+                "name": "Matrix",
+                "self_draw": true
+            },
+            "one-to-many": {
+                "name": "One to Many",
+                "self_draw": false
+            },
+            "route": {
+                "name": "Generated Route",
+                "self_draw": true
+            }
+        },
+        "custom": {
+            "com.fastspot.link-finder-field-type*link-finder": {
+                "name": "Link Finder",
+                "self_draw": null
+            },
+            "hicn_video": {
+                "name": "YT Vimeo Video",
+                "self_draw": null
+            }
+        }
+    }
+}
